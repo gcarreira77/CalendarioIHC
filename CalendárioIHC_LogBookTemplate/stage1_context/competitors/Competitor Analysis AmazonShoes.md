@@ -1,22 +1,21 @@
-# Competitor Analysis: [System Name] 
+# Competitor Analysis: [TeamUp.com] 
 ## General Information 
-- **Name of System:** [System Name] 
-- **Company/Developer:** [Company Name] 
-- **Website/Product Page:** [URL] 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [e.g., Web, Mobile (iOS/Android), Desktop] 
-- **Target Audience:** [Who is this designed for?] 
+- **Name of System:** [TeamUp.com] 
+- **Company/Developer:** [TeamUp] 
+- **Website/Product Page:** [(https://www.teamup.com/)] 
+- **Platform(s) Supported:** [ Web] 
+- **Target Audience:** [Qualquer pessoa que tenha dificuldades em organizar os seus horários, e tenha acesso à internet] 
 
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:** [Fazer um calendário] 
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** - [Marcar eventos] - [Criar e comparar vários calendários do mesmo] - [Comparar e analisar calendários de outros ] 
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):** - [è mais bastante mais simples que os competidores, apesar de não ser tão completo?] 
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:** - [Não há possibilidade de analisar outros horários fixos como transportes públicos, eventos] 
 
 ---
 
@@ -24,3 +23,11 @@
 
 
 ## Online Reviews
+
+Having had experience of other great value for money booking (5 estrelas, 84%): 
+    Having had experience of other booking systems the pricing of this is great value for money
+    Reliable bookings , on demand features I can offer my clients too. Easy to use app for both my studio and clients too
+    I highly recommend Go team up.
+
+Have been using this for a few years (4 estrelas):
+    Have been using this for a few years it’s great to organise my business bookings, client info and keep on track of my business, helping it expand
