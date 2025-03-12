@@ -1,21 +1,30 @@
 # ![Persona Name](personas/persona1.jpeg)  
-**Name:** [Persona Name]  
-**Age:** [Persona Age]  
-**Occupation:** [Job Title or Role]  
-**Location:** [City, Country]  
+**Name:** Pedro Tavares 
+**Age:** 45 anos 
+**Occupation:** CEO de uma empresa de aspiradores  
+**Location:** Lisboa, Portugal  
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
+Pedro Tavares é um executivo experiente que lidera uma empresa de aspiradores. Sendo CEO, a sua agenda está sempre cheia de reuniões, eventos e compromissos profissionais. Além disso, valoriza muito o tempo com a sua família – é casado e tem três filhos. A sua rotina diária exige um planeamento eficiente, pois está frequentemente em movimento entre diferentes locais.  
 
 ## Daily Life  
-[Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
+Pedro começa o seu dia cedo, tomando o pequeno-almoço enquanto verifica a sua agenda para se preparar para o dia. Como tem uma vida profissional agitada, precisa de equilibrar trabalho, vida pessoal e hobbies. Durante o dia, desloca-se entre reuniões, eventos da empresa e compromissos pessoais. À noite, tenta dedicar tempo à família sempre que possível. Aos domingos, reserva um momento para rever e ajustar a sua agenda semanal.  
 
 ## Goals & Needs  
-[Explain what the persona wants to achieve in their personal or professional life. What are their aspirations? What problems are they trying to solve?]  
+- Passar mais tempo com a família sem comprometer a sua vida profissional.
+- Reduzir o tempo gasto a organizar reuniões e compromissos.
+- Ter uma visão clara do seu dia logo pela manhã, de forma rápida e eficiente.
+- Encontrar eventos de interesse nos momentos livres da sua agenda.
+- Automatizar a remarcação de reuniões caso precise de fazer alterações. 
 
 ## Pain Points & Challenges  
-[Describe the main frustrations, obstacles, or inefficiencies they encounter related to the product or service you are designing for.]  
+- Dificuldade em organizar reuniões, tarefas e compromissos de forma eficiente.
+- Pouco tempo disponível para planear atividades familiares.
+- Tem de se mover constantemente entre diferentes locais, tornando a gestão do tempo ainda mais complexa.
+- Perde tempo a reagendar compromissos quando precisa de priorizar a família.  
 
 ## Motivation  
 *"Why do they engage with this product or service?"*  
-[Summarize their core motivation in a compelling way. This could be a short paragraph or even a strong, direct quote that captures their drive.]  
+"Quero aproveitar melhor o meu tempo, passar mais momentos com a minha família e reduzir o esforço necessário para gerir a minha agenda."
+
+Pedro precisa de uma solução que torne a organização do seu tempo mais simples e automática, permitindo-lhe focar-se no que realmente importa. 
