@@ -14,9 +14,9 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| TeamUp | Calendário Web | Sistema mais simples mas com todas as funcionalidades base para uma ou mais pessoas |
+| Morgen | Calendário em App para Computador | Sistema mais complexo, com algum apoio IA                                 |
+| Clockwise | Calendário Web | Sistema com muita utilização de IA para gerir calendários de equipas |
 
 
 
@@ -28,7 +28,11 @@
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+
+Para fazer a avaliação Heurística da gerenciadora de calendários TeamUp, 3 analistas avaliaram separadamente a capacidade da plataforma para concluir as tarefas básicas de qualquer calendário, como a marcação de eventos, assim como a apresentação e compreesão do layout da perspetiva do utilizador comum, tudo com base nas heurísticas de usabilidade de Nielsen. 
+
+Após as avaliações conluídas, foi organizada uma sessão de apresentação e comparação destas e foi criada uma lista de consenso.
+
 
 
 #### Individual Evaluations
@@ -47,9 +51,14 @@
 
 | **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| Não permite definir um evento como absoluto | 2            | 2        | 0        | Devia existir opção de definir um evento sem sobreposição |
+| Permite criar dois eventos com mesmo nome e descrição   | 3            | 0        | 4        | Verificar se existem eventos com o mesmo nome e confirmar com utilizador                    |
+| Falta de indicação de como realizar ações de adicionar/editar/remover eventos, fornecer tutoriais             | 2             |    2      |     2     |              Adicionar botôes para estas ações na barra de ferramentas                               |
+|Demasiadas opções de visualização dos horários | 1 | 1 | 1 | Eliminar algumas das opções da visualização geral  |
+| Carregar num dia no calendário apresentado no topo esquerdo não direciona para esse dia | 2 | 0 | 0 | Direcionar para o dia quando selecionado no calendário |
+| Layout demasiado simples | 1 | 1 | 1 | Utilizar cores diferentes e figuras mais apelativas |
+| Não permite criar um calendário quando cria novo evento| 0 | 3 | 0 | Dar opção de adicionar um novo calendário no menu de criação de um evento |
+|Introdução de datas e horas inválidas (evento acaba antes de começar)| 0 | 0 | 4 | Quando utilizador seleciona um horário inválido, notificar o erro e repetir a seleção de horário|
 
 
 
