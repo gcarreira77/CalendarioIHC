@@ -17,8 +17,8 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Não existem titulos que informem o utilizador do que ele está a fazer | 2            |                |
+
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -76,8 +76,9 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| Quando se cria um evento não é possivel criar um calendário, é necessário ir a um sitio especifico criar o calendário e só depois é que é possível adicionar o calendário a esse evento. | 3            |                |
+ Demasiadas opções de visualização dos horários | 1 
+
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
