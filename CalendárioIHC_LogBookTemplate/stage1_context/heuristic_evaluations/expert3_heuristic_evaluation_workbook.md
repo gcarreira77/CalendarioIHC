@@ -38,7 +38,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Difficulties in deleting calendars, as this action cannot be performed directly within the app and requires accessing the browser. | 3            | Enable users to delete calendars directly within the app to enhance control and freedom.|
+| Dificuldades na eliminação de calendários, uma vez que esta ação não pode ser realizada diretamente na aplicação e requer o acesso ao navegador. | 3            | Permitir que os utilizadores apaguem calendários diretamente na aplicação para aumentar o controlo e a liberdade.|
 
 # 4 Consistency and Standards
 >	Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions. 
