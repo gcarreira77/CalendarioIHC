@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![Persona Name](persona1.jpeg)  
 **Name:** Pedro Tavares 
 **Age:** 45 anos 
 **Occupation:** CEO de uma empresa de aspiradores  

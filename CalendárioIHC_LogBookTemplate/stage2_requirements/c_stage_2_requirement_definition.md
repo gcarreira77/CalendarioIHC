@@ -28,7 +28,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
+| **Photo**        | ![Persona Name\|100](personas/persona2.png)            |
 | **Name**         | [Miguel Pereira]                                |
 | **Age**          | [20 anos]                                 |
 | **Occupation**   | [Estudante]                           |
