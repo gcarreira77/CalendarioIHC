@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpeg)  
+# ![Persona Name](persona2.png)
 **Name:** Miguel Pereira 
 **Age:** 20 anos 
 **Occupation:** Estudante 
