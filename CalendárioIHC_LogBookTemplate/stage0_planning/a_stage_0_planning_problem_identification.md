@@ -4,16 +4,16 @@
 
 
 # A. Stage 0 - Planning and Problem Identification
->	As atuais ferramentas de calendário existentes na atualidade apresentam problemas na usabilidade, pois muitas vezes são demasiado complicadas.
+>	As atuais ferramentas de calendário existentes apresentam problemas na usabilidade, pois muitas vezes são demasiado complicadas.
 
 # Context
 [Calendário em plataforma digital, que permita criar um calendário de forma simples mas completa]
 
 # Challenges
-[Permitir interação entre membros de uma equipa, permitir verificar várias datas importantes e eventos de várias localidades, e fornecer uma implementação mais flexível para futuras alteracões necessárias na agenda]
+[Um assistente inteligente de calendário que sincronize compromissos pessoais, escolares e profissionais com eventos da cidade e transportes públicos, ajuste automaticamente a agenda em caso de atrasos ou faltas, notifique mudanças, avise sobre a chegada de pessoas para reuniões e realiza um check-up semanal para planejamento.]
 
 # The goal
-[Permitir que qualquer pessoa possa ter um único calendário digital, independentemente da ocupação, idade, e naturalidade]
+[Permitir que qualquer pessoa possa ter um único calendário digital que seja simples e intuitivo, independentemente da ocupação e idade]
 
 
 [Back to main Logbook Page](hci_logbook.md)
