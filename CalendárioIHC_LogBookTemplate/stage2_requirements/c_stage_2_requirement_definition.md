@@ -47,15 +47,22 @@
 # Scenarios
 
 
-## Scenario 1: Maria goes on a Museum Tour
+## Scenario 1: Miguel encontra-se com um amigo no período de estudo
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+Miguel organiza o seu dia a dia com cuidado, distribuindo as suas tarefas e compromissos num calendário digital que o ajuda a manter a sua rotina equilibrada. Normalmente, ele reservava um horário específico para estudar, garantindo um tempo fixo para se dedicar á Universidade. 
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+Hoje, no entanto, ele combinou em sair com o Marcos para jogar bilhar. Assim que confirmou o encontro no calendário que partilha com o Marcos, o aplicativo ajustou automaticamente a sua agenda. O sistema identificou o conflito com o bloco de estudo e, seguindo as preferências personalizadas do Miguel, moveu a sessão para um horário livre mais tarde no dia. 
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
+Ao analisar sua agenda antes de sair, o Miguel percebeu a mudança e ficou satisfeito. O calendário não apenas evitou sobreposição de compromissos, mas também manteve o seu planeamento académico intacto. Ele sabia que, mesmo aproveitando o jogo com o Marcos, ainda teria o seu momento de estudo garantido. 
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+
+## Scenario 2: Pedro aproveita uma tarde em família 
+
+Pedro Tavares começou o dia a verificar o seu calendário, essencial para organizar sua rotina. Ao acordar, ele entrou na plataforma para conferir as suas atividades planeadas e analisar se havia um espaço livre para passar algum tempo com sua mulher e filha. 
+
+Após ver a sua agenda, Pedro percebeu que ele e a sua mulher tinham um intervalo de duas horas disponíveis, exatamente no período em que a sua filha saía da escola. Interessados em aproveitar esse tempo juntos, ele voltou à plataforma, que, além de gerir os seus compromissos, sugere eventos próximos e alinhados aos seus interesses. 
+
+Com algumas opções disponíveis, Pedro escolheu uma atividade ao ar livre em família. O calendário então adicionou automaticamente o evento à sua agenda e enviou um lembrete para garantir que nada fosse esquecido. Agora, podia continuar com o seu dia tranquilo, sabendo que tinha reservado um momento especial com a sua família. 
 
 ---
 
