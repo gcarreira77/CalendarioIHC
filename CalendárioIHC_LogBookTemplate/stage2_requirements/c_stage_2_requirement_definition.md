@@ -14,13 +14,13 @@
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
 | **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Name**         | [Pedro Tavares]                                |
+| **Age**          | [45 anos]                                 |
+| **Occupation**   | [CEO de uma empresa de aspiradores]                           |
+| **Location**     | [Lisboa, Portugal]                               |
+| **Goals**        | [Passar mais tempo com a família, organizar/marcar compromissos mais rápido, remarcar automaticamente reuniões]           |
+| **Pain Points**  | [Má gestão de horários de reuniões e compromissos, pouco tempo livre, move-se muito e não consegue rentabilizar o tempo]              |
+| **Motivation**   | [Quero passar mais momentos com a minha família e menos a gerir a minha agenda]                |              |
 | **Full Profile** | [📄 Read More](personas/persona1_template.md) |
 
 ---
@@ -29,13 +29,13 @@
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
 | **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
+| **Name**         | [Miguel Pereira]                                |
+| **Age**          | [20 anos]                                 |
+| **Occupation**   | [Estudante]                           |
+| **Location**     | [Aveiro, Portugal]                               |
+| **Goals**        | [Organizar estudo, encontrar eventos, sair com amigos, saber quando pode utilizar transportes públicos]           |
+| **Pain Points**  | [Dificuldade a sincronizar com amigos, informações de eventos em vários sítios, horários de trasnportes públicos pouco acessíveis]              |
+| **Motivation**   | [Quero organizar o meu tempo de forma eficiente]  
 | **Full Profile** | [📄 Read More](personas/persona2_template.md) |
 
 ---
@@ -68,9 +68,20 @@
 
 ## C.1. Functional requirements
 
+Compartilhar horário
+Remarcar eventos
+Gerir calendários
+Datas de eventos 
+Avisos de eventos futuros
+Eventos que se repetem
+Verificar horários de transportes públicos
+
 
 ## C.2. Non-functional requirements
 
+Associar calendários a uma conta 
+O sistema deverá suportar vários utilizadores ao mesmo tempo
+Os calendários só podem ser visualizados por utilizadores autorizados pelo criador do calendário 
 
 ---
 [Back to main Logbook Page](hci_logbook.md)
