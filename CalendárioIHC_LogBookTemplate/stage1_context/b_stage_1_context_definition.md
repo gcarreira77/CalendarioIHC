@@ -110,28 +110,23 @@ Task: [This is the task]
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+Foram considerados utilizadores com um horário não fixo, ou que estejam dependentes de outros frequentemente. As perguntas tinham como objetivos principais compreender se os utilizadores conseguem fazer boa gestão do dia a dia, quais ferramentas usam, e quais limitações encontram para o uso nas suas profissões/vidas pessoais.
+
 ## B.2b. Results
-
->	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
-
-### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Dificuldade em combinar horários com outros
+	- Falta de conhecimento de eventos de possível interesse
+	- Desorganização 
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- redes sociais
+	- caderno/agenda física
+	- memória
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- Opção de partilhar/sincronizar horários
+	- Horários públicos com eventos, transportes, ...
 - --- 
 
 
