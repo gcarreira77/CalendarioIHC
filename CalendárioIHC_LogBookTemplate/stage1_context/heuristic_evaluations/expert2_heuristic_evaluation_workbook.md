@@ -39,7 +39,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Não existe opção de marcar um evento que não permita marcações futuras na sua duração | 2            |                |
 | Another thing   | 4            |                |
 
 # 4 Consistency and Standards
@@ -76,7 +76,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Quando se cria um evento não é possivel criar um calendário, é necessário ir a um sitio especifico criar o calendário e só depois é que é possível adicionar o calendário a esse evento. | 3            |                |
+| Quando se cria um evento não é possivel criar um calendário, é necessário ir a um sitio especifico criar o calendário e só depois é que é possível adicionar o evento a esse calendário. | 3            |                |
  Demasiadas opções de visualização dos horários | 1 
 
 # 8 Aesthetic and Minimalist Design
@@ -86,7 +86,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Layout pouco apelativo | 1            |                |
 | Another thing   | 4            |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
