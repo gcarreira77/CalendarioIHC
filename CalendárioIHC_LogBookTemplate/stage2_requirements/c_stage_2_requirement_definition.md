@@ -82,7 +82,8 @@ Datas de eventos
 Avisos de eventos futuros
 Eventos que se repetem
 Verificar horários de transportes públicos
-
+Adicionar eventos
+Remover eventos
 
 ## C.2. Non-functional requirements
 
