@@ -23,8 +23,7 @@ Duvida em o que significa a cena do calendário (botão em a parte de abaixo), f
 | ------------------ | --------------------------------------------- |
 |**Adicionar evento**| Descrição evento com links de informação, bilhetes,etc.|
 |**Partilhar calendario**| Em share nāo ter so pessoas ter grupos tambem, a parte de ver os horários juntos podia ser mais clara.  |
-|**Alguem partilha horario** | (friends) ter label de quem partilhou, trabalhar melhor as opções de aceitar vários eventos já no calendario de quem partilha,
-editar na pagina de evento ser choose another block, edit da a entender que podemos fazer alterações ao evento.|
+|**Alguem partilha horario** | (friends) ter label de quem partilhou, trabalhar melhor as opções de aceitar vários eventos já no calendario de quem partilha, editar na pagina de evento ser choose another block, edit da a entender que podemos fazer alterações ao evento.|
 |**Crear evento**        |Ao escolher para editar, o outline nos horários parece indicar que pode ser alterado antes de carregar em edit.|
 
 
@@ -34,8 +33,7 @@ editar na pagina de evento ser choose another block, edit da a entender que pode
 |**Adicionar evento**| Botão mais específico e mais marcante para adicionar ao calendário, alterar botão cancelar.Confirm à direita e cancel à esquerda (trocar de lugar), não só mostrará os botões, mas também uma expansão do evento com os botões abaixo.|
 |**Partilhar calendario**| ter opção de “create share event”, melhorar a implementação de partilhar calendário y criar evento em grupo, trocar botão done a share.|
 |**Alguem partilha horario** | Adicione o tipo de evento que será marcado com uma pessoa, na notificação informe o tipo de evento (ex : almoço).|
-|**Crear evento**        | Adicione a opção “ok with that” se tivermos horários sobrepostos.
-Receba feedback sobre as coisas que alterámos e adicionámos.|
+|**Crear evento**        | Adicione a opção “ok with that” se tivermos horários sobrepostos.Receber feedback sobre as coisas que alterámos e adicionámos.|
 
 
 
