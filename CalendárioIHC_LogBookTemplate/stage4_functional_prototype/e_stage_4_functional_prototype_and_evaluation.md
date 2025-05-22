@@ -6,9 +6,10 @@
 
 # Prototype
 
-
+Protótipo de Calendário desenvolvido usando a livraria React do Java Script
 
 # E.X. User Evaluation
+
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)

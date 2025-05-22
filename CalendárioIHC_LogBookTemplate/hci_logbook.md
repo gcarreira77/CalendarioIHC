@@ -8,9 +8,9 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: [Diego and Number] 
+- Student 2; [Guilherme Carreira nº 120159]
+- Student 3: [Sofia and Number]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)

@@ -29,7 +29,7 @@
 
 #### Method
 
-Para fazer a avaliação Heurística da gerenciadora de calendários TeamUp, 3 analistas avaliaram separadamente a capacidade da plataforma para concluir as tarefas básicas de qualquer calendário, como a marcação de eventos, assim como a apresentação e compreesão do layout da perspetiva do utilizador comum, tudo com base nas heurísticas de usabilidade de Nielsen. 
+Para fazer a avaliação Heurística do site de calendários TeamUp, 3 analistas avaliaram separadamente a capacidade da plataforma para concluir as tarefas básicas de qualquer calendário, como a marcação de eventos, assim como a apresentação e compreesão do layout da perspetiva do utilizador comum, tudo com base nas heurísticas de usabilidade de Nielsen. 
 
 Após as avaliações conluídas, foi organizada uma sessão de apresentação e comparação destas e foi criada uma lista de consenso.
 
