@@ -4,10 +4,6 @@
 # E. Functional Prototype and Evaluation
 
 ## Prototype
-
-<<<<<<< HEAD
-Protótipo de Calendário desenvolvido usando a livraria React do Java Script
-=======
 Protótipo de Calendário desenvolvido usando a livraria React do JavaScript.  
 O "Calendário Inteligente" permite aos usuários visualizar, adicionar, editar e excluir eventos de forma intuitiva. A interface foi desenhada levando em consideração princípios de usabilidade e acessibilidade, oferecendo uma experiência fluida em dispositivos móveis e desktop. O sistema inclui funcionalidades como:
 
