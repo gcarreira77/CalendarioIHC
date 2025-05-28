@@ -1,7 +1,5 @@
-[Back to main Logbook Page](../hci_logbook.md)
 
----
-
+--
 [Back to main Logbook Page](../hci_logbook.md)
 
 ---
@@ -47,6 +45,3 @@ Essas alterações foram validadas por meio de testes internos e preparam o terr
 
 ---
 
-[Back to main Logbook Page](../hci_logbook.md)
-
----
