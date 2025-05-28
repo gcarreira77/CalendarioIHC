@@ -9,7 +9,6 @@ O "Calendário Inteligente" permite aos usuários visualizar, adicionar, editar 
 
 - Notificações inteligentes.
 - Sugestões automáticas de horário baseadas em disponibilidade.
->>>>>>> beaf7e7 (prototype and evaluation)
 
 ## E.X. User Evaluation
 
