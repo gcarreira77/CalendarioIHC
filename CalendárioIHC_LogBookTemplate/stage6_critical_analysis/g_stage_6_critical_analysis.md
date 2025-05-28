@@ -24,9 +24,9 @@ Oportunidades de melhoria:
 
 | Membro da equipe |  % de esforço |
 |------------------| --------------|
-|  Sofia Duarte    |  -         |
-|Guilherme Carreira|  -    |
-|Diego Aguilar     |  -         |
+|  Sofia Duarte    |  33%          |
+|Guilherme Carreira|  33%          |
+|Diego Aguilar     |  33%          |
 
 > Nota: A distribuição foi ajustada com base nas contribuições reais observadas ao longo do projeto.
 
