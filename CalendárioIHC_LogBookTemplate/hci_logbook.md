@@ -8,7 +8,7 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Diego and Number] 
+- Student 1: [Diego Aguilar nº 120159] 
 - Student 2; [Guilherme Carreira nº 120159]
 - Student 3: [Sofia and Number]
 
