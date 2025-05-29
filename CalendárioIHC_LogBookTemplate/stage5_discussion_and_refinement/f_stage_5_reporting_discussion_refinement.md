@@ -12,7 +12,6 @@ A eficiência e a facilidade de uso também foram bem avaliadas, com médias de 
 
 No entanto, alguns pontos de melhoria foram identificados nos comentários dos usuários:
 
-- Tempo de resposta ao adicionar eventos.
 - Melhor feedback visual ao salvar modificações.
 - A inclusão de um tutorial breve no primeiro uso.
 
@@ -22,7 +21,7 @@ Essas observações foram fundamentais para orientar as melhorias da próxima ve
 
 Com base na avaliação dos usuários, foram definidas as seguintes melhorias:
 
-1. **Melhoria no tempo de resposta** ao adicionar eventos.
+1. **Melhoria n labelling do sitema**.
 2. **Animações e feedback visual** ao confirmar ações como salvar ou excluir eventos.
 3. **Tela de introdução/tutorial** para primeiros acessos.
 4. **Aprimoramento da acessibilidade** para usuários com deficiência visual (etiquetas ARIA, contraste de cores).
@@ -32,7 +31,7 @@ Com base na avaliação dos usuários, foram definidas as seguintes melhorias:
 
 O protótipo refinado incorpora as melhorias acima. A estrutura geral foi mantida, mas agora:
 
-- O sistema responde mais rapidamente ao criar e editar eventos.
+- O sistema apresenta mais informaçao no seu layout
 - Transições suaves e mensagens de confirmação ajudam o usuário a entender o que está acontecendo.
 - Um breve tutorial orienta os novos usuários.
 - A interface foi testada em diferentes dispositivos para garantir responsividade.
